@@ -1,3 +1,6 @@
+package java_cal;
+
+
 import java.util.*;
 
 public class Scase {
